@@ -9,24 +9,24 @@ const teamMembers = {
     name: 'Adrian Morris',
     role: 'Developer',
     study: 'Associate in Information Technology',
-    interest: 'Cyber Security & Networking',
-    specialties: ['Full-Stack', 'Network Security', 'System Administration', 'Web Development'],
-    about: 'Adrian is passionate about cybersecurity and networking. With expertise in full-stack development and network administration, Adrian plays a crucial role in ensuring the security and reliability of our applications.'
+    interest: 'Web-Development, Cyber Security & Networking',
+    specialties: ['Interested in Website development/management'],
+    about: 'Adrian is passionate about cybersecurity and networking. Adrian plays a crucial role in the development of the entire.'
   },
   andrew: {
     name: 'Andrew Faber',
     role: 'Developer',
     study: 'Associate in Information Technology',
     interest: 'Software Development',
-    specialties: ['Backend Development', 'Fullstack', 'Database Design', 'API Development'],
-    about: 'Andrew specializes in backend development and software architecture. His strong foundation in computer science principles enables him to design robust and scalable solutions for complex problems.'
+    specialties: ['...'],
+    about: 'Andrew specializes in backend development and software architecture. His strong foundation in computer science principles enables him to desFull-Stack', 'Network Security', 'System Administration', 'Web Development'ign robust and scalable solutions for complex problems.'
   },
   derick: {
     name: 'Derick Cal',
     role: 'Developer',
     study: 'Associate in Information Technology',
-    interest: 'Computer Science',
-    specialties: ['Systems Design', 'Algorithms', 'Data Structures', 'Performance Optimization'],
+    interest: 'Computer Science',Full-Stack', 'Network Security', 'System Administration', 'Web Development'
+    specialties: ['...'],
     about: 'Derick has a deep understanding of computer science fundamentals and operating systems. His expertise in algorithms and systems design ensures our applications run efficiently and effectively.'
   },
   lisandro: {
@@ -34,7 +34,7 @@ const teamMembers = {
     role: 'Developer',
     study: 'Associate in Information Technology',
     interest: 'Technology & Innovation',
-    specialties: ['Frontend Development', 'UI/UX Design', 'Web Performance', 'User Experience'],
+    specialties: ['...'],
     about: 'Lisandro brings creativity and technical excellence to the frontend. His passion for technology and innovation drives him to create beautiful, responsive, and user-friendly interfaces.'
   }
 };
@@ -122,3 +122,4 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     }
   });
 });
+
